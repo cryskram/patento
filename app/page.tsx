@@ -50,9 +50,9 @@ const HomePage = () => {
       </div>
 
       {/* input section */}
-      <div className="w-full mt-50">
+      <div className="w-full mt-12 flex  items-center justify-center">
         <input
-          className="w-3/4 md:w-3/5 mt-12 px-2 py-2 rounded-xl bg-[#4a4e69] outline-none"
+          className="w-3/4 md:w-3/5 px-2 py-2 rounded-xl bg-[#4a4e69] outline-none"
           type="text"
           name="input"
           id="input"
